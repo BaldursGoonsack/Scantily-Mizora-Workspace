@@ -125,6 +125,11 @@
 							<attribute id="Slot" type="FixedString" value="Headwear" />
 							<attribute id="VisualResource" type="FixedString" value="457b3b04-77d8-07f6-b9fe-65e4c0f049b0" />
 						</node>
+						<node id="Slots">
+							<attribute id="Bone" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="d782a80a-1147-ba01-e6e1-54bc81fad768" />
+						</node>
 					</children>
 				</node>
 			</children>
