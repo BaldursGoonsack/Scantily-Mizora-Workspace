@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="613" lslib_meta="v1,bswap_guids" />
+	<region id="VisualSetSlotsSystem">
+		<node id="VisualSetSlotsSystem">
+			<children>
+				<node id="AttachmentsMappings">
+					<children>
+						<node id="Object">
+							<attribute id="MapKey" type="FixedString" value="e5af273d-70e0-4011-8457-eb0bbd5d3969" />
+							<children>
+								<node id="MapValue">
+									<attribute id="Object" type="FixedString" value="caf0336a-cf80-7126-d6ba-8027b8959513" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
